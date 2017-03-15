@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_webview.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_keyboard.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_pay_result.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_pay_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_toast.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_view.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\balance_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_risk_control.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_risk_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_popupwindow.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_popupwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_wait_dialog.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_wait_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_paystep_layout.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_paystep_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_list_item.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_creditinfo.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_creditinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_title.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_loading.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\payeco_plugin_order_detail.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\payeco_plugin_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_view.xml",
+        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\WanpuPayDemo\\app\\src\\main\\res\\layout\\pay_view.xml"
+    }
+]
