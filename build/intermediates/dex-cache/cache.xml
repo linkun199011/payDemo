@@ -1,3 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5b3db0befb5f9a8c310ca661ea2f67da12871fa2">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_1f823caa793ffcc16da0df75fbaaed2f57662c88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/payecopluginjar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bc742bf63513823d207bb111b8722e59c1ab80a">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/payecopluginjar_a847a0721b01b69dd7ee5f8f12e7a8c684386d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/WanpuPay_4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="03a2e9acd0b2643a4f9b4993089f33a61c0ef2d3">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/WanpuPay_4.2.2_e852bea379ad76a0209276e8b43d622afe50c479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/UPPayAssistEx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a386794e7d529faacd1391a71fbd79bc82d6b9a">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayAssistEx_d14f84650b5ae62a2836c0686cc171aebc93f5e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/TenpayServiceSDK_V5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5329605c8b48dcb9ddcf48067b292b84b5d3f979">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/TenpayServiceSDK_V5.0_af3b12a7ba31a5d044d0645ad9864a4bb3eba5d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_d8c8da58e11504875e8f8693563c8c96325c1a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c3384f9877b711c3f0b6556ce9ec7f63dc2426e">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysdk_5b01b8433fcd0bb9ad553688b0c5d4e195fc1e2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/UPPayPluginExPro.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f4c8b7ba28557ec7fcf8a9329ecf70a70c6223b">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayPluginExPro_be3c6c8e69d6f8d6fd6160e832d5eff19c521e4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysecsdk_acf1986779ce1c8d2f4173709df0911c815aff60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/libs/alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipayutdid_4c1aa57f126e37214bb22fb598f4e3bc87042621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b4efb1f896abbb7a8afde4253232c6e616fa2a91">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca0ff06085e4a20141fba4c50e084f92454f3f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/payDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5c08d0617af67dc355e4872c5831ac3da1972866">
+        <dex dex="/home/linkun/workspace/github/payDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa4e9f4af182af651390399088cc2bd6e58d79c2/classes.dex" />
+    </item>
+
+</items>
